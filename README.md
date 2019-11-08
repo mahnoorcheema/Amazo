@@ -1,2 +1,2 @@
 # Amazo
-AI that solves randomly generated mazes using reinforcement learning
+AI that solves randomly generated mazes (through Prim's Algorithm) using reinforcement learning
